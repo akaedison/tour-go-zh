@@ -1,4 +1,4 @@
-# tour-go-zh
+# tour-go-zh go 语言入门指南，所有的go 例子以及练习题
 [go指南中文版](https://tour.go-zh.org)
 ## go tour 
 ## go指南中文版
