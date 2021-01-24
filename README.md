@@ -5,4 +5,5 @@
 ### 1.basic 基础 ✔
 ### 2.flow control 流程控制 ✔
 ### 3.more types 更多类型 ✔
-### 4.methods 方法 🕐
+### 4.methods 方法 ✔
+### 5.concurrency 并发 🕐
